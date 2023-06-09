@@ -1,0 +1,15 @@
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\bin\Debug\net6.0\GUNS.exe
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\bin\Debug\net6.0\GUNS.deps.json
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\bin\Debug\net6.0\GUNS.runtimeconfig.json
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\bin\Debug\net6.0\GUNS.dll
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\bin\Debug\net6.0\GUNS.pdb
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\obj\Debug\net6.0\GUNS.csproj.AssemblyReference.cache
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\obj\Debug\net6.0\GUNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\obj\Debug\net6.0\GUNS.AssemblyInfoInputs.cache
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\obj\Debug\net6.0\GUNS.AssemblyInfo.cs
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\obj\Debug\net6.0\GUNS.csproj.CoreCompileInputs.cache
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\obj\Debug\net6.0\GUNS.dll
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\obj\Debug\net6.0\refint\GUNS.dll
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\obj\Debug\net6.0\GUNS.pdb
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\obj\Debug\net6.0\GUNS.genruntimeconfig.cache
+C:\Users\ynami\OneDrive\Desktop\GUNS\GUNS\obj\Debug\net6.0\ref\GUNS.dll
